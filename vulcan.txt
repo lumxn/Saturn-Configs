@@ -1,0 +1,111 @@
+modulestate:AimAssist:true
+modulestate:Ambience:true
+setting:Ambience:time:19000.0
+modulestate:Animations:true
+setting:Animations:Animation:Exhibition
+modulestate:AntiBot:false
+setting:AntiBot:mode:Watchdog
+modulestate:AntiVoid:false
+setting:AntiVoid:mode:Position
+modulestate:Aura:false
+keybind:33
+setting:Aura:Range:3.0
+setting:Aura:Min CPS:13.0
+setting:Aura:Max CPS:13.0
+setting:Aura:KeepSprint:true
+setting:Aura:Type:Switch
+setting:Aura:AutoBlock:vulcan
+setting:Aura:Switch Delay:100.0
+modulestate:AutoClicker:true
+modulestate:AutoHypixel:false
+setting:AutoHypixel:Go to lobby after ban:true
+setting:AutoHypixel:AutoPlay:true
+setting:AutoHypixel:Insults:false
+modulestate:Blink:false
+modulestate:ChestESP:true
+modulestate:Click GUI:false
+keybind:54
+setting:Click GUI:mode:dropdown
+setting:Click GUI:outline:Theme
+modulestate:Criticals:false
+setting:Criticals:Mode:Watchdog Semi
+modulestate:Disabler:false
+setting:Disabler:mode:Watchdog
+modulestate:ESP:true
+modulestate:Fast Place:true
+modulestate:FastBow:false
+modulestate:Flight:false
+setting:Flight:mode:Vulcan Glide
+setting:Flight:speed:1.0
+modulestate:Fullbright:true
+modulestate:HVH:false
+modulestate:Hypixel:false
+modulestate:Interface:true
+setting:Interface:Interface:Novoline
+setting:Interface:Theme:Crimson
+setting:Interface:Background:false
+setting:Interface:Suffix:true
+setting:Interface:Color Speed:33.0
+setting:Interface:Color Separation:1.0
+setting:Interface:Hide Render:true
+modulestate:Jesus:false
+modulestate:KeepSprint:true
+modulestate:LegitScaffold:false
+modulestate:LongJump:false
+modulestate:Manager:false
+setting:Manager:delay:0.0
+setting:Manager:inventory only:true
+setting:Manager:while not moving:true
+setting:Manager:sword slot:1.0
+setting:Manager:pickaxe slot:2.0
+setting:Manager:axe slot:3.0
+setting:Manager:shovel slot:4.0
+setting:Manager:block slot:5.0
+modulestate:NameHider:true
+modulestate:NoFall:false
+setting:NoFall:mode:Watchdog
+modulestate:NoHitDelay:true
+modulestate:NoRotate:false
+setting:NoRotate:Mode:Edit
+modulestate:NoSlow:true
+setting:NoSlow:mode:Vulcan
+modulestate:NoWeb:false
+modulestate:Notifications:true
+modulestate:Phase:false
+modulestate:PingSpoof:false
+setting:PingSpoof:Spoof:false
+modulestate:Raven:false
+modulestate:Reach:true
+setting:Reach:reach:5.8
+modulestate:Rich Presence:false
+modulestate:Scaffold:false
+keybind:19
+setting:Scaffold:client side rotations:Classic
+setting:Scaffold:server side rots:180
+setting:Scaffold:sprint:watchdog
+setting:Scaffold:tower:vulcan
+setting:Scaffold:same Y:false
+setting:Scaffold:item spoof:false
+setting:Scaffold:extend:0.0
+modulestate:Scoreboard:false
+modulestate:SessionStats:false
+setting:SessionStats:Mode:Novoline
+modulestate:Speed:false
+keybind:34
+setting:Speed:mode:Vulcan
+modulestate:Spider:false
+modulestate:Sprint:true
+setting:Sprint:Omni:false
+modulestate:Stealer:true
+setting:Stealer:min:50.0
+setting:Stealer:max:100.0
+modulestate:Step:false
+setting:Step:Mode:NCP
+modulestate:TargetHUD:true
+modulestate:Timer:false
+setting:Timer:Amount:1.0
+modulestate:Velocity:false
+setting:Velocity:mode:Standard
+setting:Velocity:horizontal:2.0
+setting:Velocity:vertical:100.0
+modulestate:WaterStrafe:false
